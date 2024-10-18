@@ -27,12 +27,12 @@
 | UC   | Description                                                                                                                                                   | Grade (/20) |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | [PROG](https://github.com/BSonnemberg/PROG) | Representing and processing RGB color images using C++, with each RGB channel allocated 8 bits. | 20.0 |
-| [LDTS](https://github.com/BSonnemberg/LDTS) | |  |
+| [LDTS](https://github.com/BSonnemberg/LDTS) | A text-based version of the DUSK '82 game. "The Intruder" must find the key and reach the door in 4 levels, avoiding goats and managing steps. Collect blue points to gain more steps. | 14.6 |
 | [AED_1](https://github.com/BSonnemberg/AED_1) | Manage school schedules, allowing the manipulation of information related to students, classes, curricular units (UCs), and schedule change requests. | 13.3 |
 | [AED_2](https://github.com/BSonnemberg/AED_2) | Models a network of flights and airports using a graph structure. | 17.7 |
-| [BD](https://github.com/BSonnemberg/BD) | | 13.5 |
-| [LCOM](https://github.com/BSonnemberg/LCOM) |  | 16.35 |
+| [BD](https://github.com/BSonnemberg/BD) | A database system for managing a clothing store. | 13.5 |
+| [LCOM](https://github.com/BSonnemberg/LCOM) | "Poll Game" recreates the classic real-life 8 Ball pool experience. As the name suggests, each player aims to pocket 8 balls in total - either the solid-colored balls or the striped balls— always finishing by pocketing the 8 ball last.  | 16.35 |
 | [DA_1](https://github.com/BSonnemberg/DA_1) | A system that manages the water supply using graphs to model and analyze the network of cities, reservoirs, and pumping stations. | 18.75 |
 | [DA_2](https://github.com/BSonnemberg/DA_2) | A system that solves the Travelling Salesperson Problem (TSP) using various algorithms and heuristics, applying them to graph structures representing distances between cities or points of interest. | 15.95 |
-| [ESOF](https://github.com/BSonnemberg/ESOF) |  | 17.8 |
+| [ESOF](https://github.com/BSonnemberg/ESOF) | "BrainShare" is a mobile app that connects students with tutors for real-time learning. It enables users to filter sessions by subject, chat with tutors, and rate their experiences. Tutors are ranked based on their contributions, and users can upload posts, send files, and access profiles. | 17.8 |
 | [LTW](https://github.com/BSonnemberg/LTW) | A website that facilitates the buying and selling of pre-loved items. | 13.9 |
