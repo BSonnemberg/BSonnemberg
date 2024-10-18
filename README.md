@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Beatriz Sonnemberg</h1>
 <h3 align="center">A passionate tech enthusiast and a dedicated Informatics and Computing Engineering student at FEUP</h3>
 
-- 🔭 I’m currently working on [https://share-up.pt](https://share-up.pt)
+- 🔭 I’m currently working on [ShARE-UP](https://share-up.pt)
 - 📫 How to reach me **beatrizsonnemberg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/beatriz sonnemberg](https://www.linkedin.com/in/beatriz-sonnemberg-b1a83632a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beatriz sonnemberg" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/beatriz-sonnemberg-b1a83632a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beatriz sonnemberg" height="30" width="40" /></a>
 <a href="https://instagram.com/beatriz.sonnemberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beatriz.sonnemberg" height="30" width="40" /></a>
 </p>
 
